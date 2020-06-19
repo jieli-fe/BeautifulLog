@@ -3,9 +3,6 @@
 ![img](./Jietu20200619-124057.png)
 
 
-![img](./WechatIMG59.jpeg)
-
-
 ```js
 import BeautifulLog from "BeautifulLog";
 var obj = {
