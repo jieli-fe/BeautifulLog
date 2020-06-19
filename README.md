@@ -1,6 +1,6 @@
 # BeautifulLog
 
-![img](./Jietu20200619-124057.png)
+![img](/Jietu20200619-124057.png)
 ```js
 import BeautifulLog from "BeautifulLog";
 var obj = {
